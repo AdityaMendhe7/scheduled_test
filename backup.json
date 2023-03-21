@@ -3,7 +3,7 @@
     "Client_Name": "Ask Sarkar",
     "URL": "https://asksarkar.com/#/bot",
     "bot-type": "news-bot",
-    "url": "https://asksarkar.com/indiangovAPI/getAnswer?languageCode=en",
+    "url": "https://asksarkar.com/",
     "app-id": "593183b6-0c39-11ea-8d71-362b9e155667",
     "auth-key": "812c419e-0c39-11ea-8d71-362b9e155667",
     "authkey": "",

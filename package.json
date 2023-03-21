@@ -1,7 +1,6 @@
 {
   "name": "scheduled_test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,17 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.3.4",
-    "node-schedule": "^2.1.1"
-  }
+    "node-schedule": "^2.1.1",
+    "pg": "^8.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamleshpatil21/scheduled_test.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kamleshpatil21/scheduled_test/issues"
+  },
+  "homepage": "https://github.com/kamleshpatil21/scheduled_test#readme",
+  "description": ""
 }
